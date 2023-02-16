@@ -1,0 +1,15 @@
+D:\test\projetdotnet\bin\Debug\net6.0\projetdotnet.exe
+D:\test\projetdotnet\bin\Debug\net6.0\projetdotnet.deps.json
+D:\test\projetdotnet\bin\Debug\net6.0\projetdotnet.runtimeconfig.json
+D:\test\projetdotnet\bin\Debug\net6.0\projetdotnet.dll
+D:\test\projetdotnet\bin\Debug\net6.0\projetdotnet.pdb
+D:\test\projetdotnet\obj\Debug\net6.0\projetdotnet.csproj.AssemblyReference.cache
+D:\test\projetdotnet\obj\Debug\net6.0\projetdotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\projetdotnet\obj\Debug\net6.0\projetdotnet.AssemblyInfoInputs.cache
+D:\test\projetdotnet\obj\Debug\net6.0\projetdotnet.AssemblyInfo.cs
+D:\test\projetdotnet\obj\Debug\net6.0\projetdotnet.csproj.CoreCompileInputs.cache
+D:\test\projetdotnet\obj\Debug\net6.0\projetdotnet.dll
+D:\test\projetdotnet\obj\Debug\net6.0\refint\projetdotnet.dll
+D:\test\projetdotnet\obj\Debug\net6.0\projetdotnet.pdb
+D:\test\projetdotnet\obj\Debug\net6.0\projetdotnet.genruntimeconfig.cache
+D:\test\projetdotnet\obj\Debug\net6.0\ref\projetdotnet.dll
